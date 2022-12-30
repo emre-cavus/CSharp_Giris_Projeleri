@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\bin\Debug\Renkli butonlar.exe.config
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\bin\Debug\Renkli butonlar.exe
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\bin\Debug\Renkli butonlar.pdb
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\obj\Debug\Renkli butonlar.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\obj\Debug\Renkli_butonlar.Form1.resources
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\obj\Debug\Renkli_butonlar.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\obj\Debug\Renkli butonlar.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\obj\Debug\Renkli butonlar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\obj\Debug\Renkli butonlar.exe
+C:\Users\LENOVO\source\repos\Renkli butonlar\Renkli butonlar\obj\Debug\Renkli butonlar.pdb

@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\bin\Debug\Sınav_Çalışmaları vol.3.exe.config
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\bin\Debug\Sınav_Çalışmaları vol.3.exe
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\bin\Debug\Sınav_Çalışmaları vol.3.pdb
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\obj\Debug\Sınav_Çalışmaları vol.3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\obj\Debug\Sınav_Çalışmaları vol.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\obj\Debug\Sınav_Çalışmaları_vol._3.Form1.resources
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\obj\Debug\Sınav_Çalışmaları_vol._3.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\obj\Debug\Sınav_Çalışmaları vol.3.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\obj\Debug\Sınav_Çalışmaları vol.3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\obj\Debug\Sınav_Çalışmaları vol.3.exe
+C:\Users\LENOVO\source\repos\Sınav_Çalışmaları vol.3\Sınav_Çalışmaları vol.3\obj\Debug\Sınav_Çalışmaları vol.3.pdb
