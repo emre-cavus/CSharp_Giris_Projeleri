@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\bin\Debug\Deneme 2.exe.config
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\bin\Debug\Deneme 2.exe
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\bin\Debug\Deneme 2.pdb
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\obj\Debug\Deneme 2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\obj\Debug\Deneme_2.Form1.resources
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\obj\Debug\Deneme_2.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\obj\Debug\Deneme 2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\obj\Debug\Deneme 2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\obj\Debug\Deneme 2.exe
+C:\Users\LENOVO\source\repos\Deneme 2\Deneme 2\obj\Debug\Deneme 2.pdb

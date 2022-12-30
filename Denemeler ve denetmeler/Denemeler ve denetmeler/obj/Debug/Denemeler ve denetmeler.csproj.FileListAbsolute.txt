@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\obj\Debug\Denemeler ve denetmeler.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\obj\Debug\Denemeler ve denetmeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\obj\Debug\Denemeler_ve_denetmeler.Form1.resources
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\obj\Debug\Denemeler_ve_denetmeler.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\obj\Debug\Denemeler ve denetmeler.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\obj\Debug\Denemeler ve denetmeler.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\bin\Debug\Denemeler ve denetmeler.exe.config
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\bin\Debug\Denemeler ve denetmeler.exe
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\bin\Debug\Denemeler ve denetmeler.pdb
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\obj\Debug\Denemeler ve denetmeler.exe
+C:\Users\LENOVO\source\repos\Denemeler ve denetmeler\Denemeler ve denetmeler\obj\Debug\Denemeler ve denetmeler.pdb

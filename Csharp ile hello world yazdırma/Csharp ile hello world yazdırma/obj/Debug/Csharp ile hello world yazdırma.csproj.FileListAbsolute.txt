@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\bin\Debug\Csharp ile hello world yazdırma.exe.config
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\bin\Debug\Csharp ile hello world yazdırma.exe
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\bin\Debug\Csharp ile hello world yazdırma.pdb
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\obj\Debug\Csharp ile hello world yazdırma.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\obj\Debug\Csharp_ile_hello_world_yazdırma.Form1.resources
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\obj\Debug\Csharp_ile_hello_world_yazdırma.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\obj\Debug\Csharp ile hello world yazdırma.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\obj\Debug\Csharp ile hello world yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\obj\Debug\Csharp ile hello world yazdırma.exe
+C:\Users\LENOVO\source\repos\Csharp ile hello world yazdırma\Csharp ile hello world yazdırma\obj\Debug\Csharp ile hello world yazdırma.pdb
