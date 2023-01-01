@@ -1,0 +1,8 @@
+int dongu_say = 1;
+int toplam = 0;
+while (toplam <=1000)
+{
+  toplam = toplam + dongu_say;
+  dongu_say +=1;
+}
+MessageBox1.Show("Döngü Toplam" + dongu_say.ToString() + "kez çalıştı");

@@ -1,0 +1,10 @@
+string kulanici_adi ;
+kulanici_adi = Convert.ToString(textBox1.Text);
+if (kulanici_adi == "JesPster")
+{
+  MessageBox.Show ("Kullanıcı adınız doğrudur.")
+}
+else
+{
+  MessageBox.Show("Kullanıcı adınız hatalıdır.");
+}

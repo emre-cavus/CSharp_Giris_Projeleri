@@ -1,0 +1,22 @@
+int gun = Convert.ToInt32(DataTime.Now.DayOfWeek);
+switch (gun)
+{
+  case1;
+  MessageBox.Show("Pazartesi");
+  break;
+  case2;
+  MessageBox.Show("Salı");
+  break;
+  case3
+  MessageBox.Show("Çarşamba");
+  break;
+  case4
+  MessageBox.Show("Perşembe");
+  break;
+  case5
+  MessageBox.Show("Cuma");
+  break;
+  default;
+  MessageBox.Show("Hatta Oluştu");
+  break;
+}

@@ -1,0 +1,9 @@
+for (a=0;a<=10;a++)
+{
+  MessageBox1.Show("Döngü Çalışıyor");
+  id (a==5)
+{
+  MessageBox1.Show("Döngü Durdu.");
+  break;
+}
+}

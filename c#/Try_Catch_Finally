@@ -1,0 +1,14 @@
+int sayi1,sayinin_karesi;
+ try
+ {
+ sayi1 = Convert.ToInt16(textBox1.Text);
+ sayinin_karesi = sayi1 * sayi1;
+ MessageBox.Show(sayinin_karesi.ToString());
+ }
+ catch
+ {
+ MessageBox.Show("Hatalı giriş yaptınız!""); }
+ finally
+ {
+ // Hata olsa da olmasa da çalışacak kodlar
+ }

@@ -1,0 +1,8 @@
+string secim;
+secim = listBox1.SelectedItem.ToString();
+if (secim == "Mouse" || secim == "Klavye" || secim == "Kamera" || secim == "Tarayıcı") {
+  MessageBox.Show ("Bu Parça, Giriş birimidir.");
+}
+if (secim == "Yazıcı" || secim == "Hoparlör" || secim == "Projeksyon") {
+  MessageBox.Show ("Bu parça, Çıkış birimidir");
+}

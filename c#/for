@@ -1,0 +1,8 @@
+int sayi1, sayi2, toplam;
+sayi1 = Convert.ToInt32(textBox1.Text);
+sayi2 = Convert.ToInt32(textBox2.Text);
+toplam = 0
+for (i=sayi1; i<sayi2; i++) {
+  toplam = toplam + i;
+}
+MessageBox1.Show ("Sayıların Toplamı =" + toplam.ToString());

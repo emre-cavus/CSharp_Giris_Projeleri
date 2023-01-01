@@ -1,0 +1,10 @@
+int ses = trackBar1.Value;
+if (ses == 0) {
+  label1.Text ="Ses Yok" label1.ForeColor Color.Black;
+}
+if (ses >0 && ses <= 50) {
+  label1.Text ="Ses Orta Seviyede" label1.ForeColor Color.Blue
+}
+if (ses > 50 && ses <=100) {
+  label1.Text ="Ses Seviyesi Yüksek" label1.ForeColor Color.Red
+}

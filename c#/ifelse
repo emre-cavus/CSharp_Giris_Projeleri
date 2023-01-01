@@ -1,0 +1,11 @@
+int deger1,deger2,sonuc;
+deger1 = Convert.ToInt32(textBox1.Text);
+deger2 = Convert.ToInt32(textBox2.Text);
+if (radioButton1.Checked == true)
+{
+  label1.Text(deger1 + deger2).ToString();
+}
+else
+{
+  label1.Text(deger1 - deger2).ToString();
+}

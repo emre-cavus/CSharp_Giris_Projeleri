@@ -1,0 +1,14 @@
+byte sayi1, sayi2;
+sayi1 = Convert.ToByte(textBox1.Text);
+sayi2 =Convert.ToByte(textBox2.Text);
+if (sayi1 > sayi2)
+{
+MessageBox.Show("Sayı 1 Sayı 2 den büyüktür");
+}
+if (sayi1 == sayi2)
+{
+  MessageBox.Show("Sayı 1 eşitir sayi 2 ye ");
+}
+if (sayi1 < sayi2) {
+  MessageBox.Show("Sayi 1 Sayi 2 den küçüktür. ");
+}

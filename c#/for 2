@@ -1,0 +1,5 @@
+double kuvvet;
+for (i=0; i<5; i++) {
+  kuvvet = Math.Pow(10,i);
+  listBox1.Items.Add (kuvvet);
+}

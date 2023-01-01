@@ -1,0 +1,14 @@
+byte sinif;
+sinif =Convert.ToByte(comboBox1.Text);
+if (sinif > 0 && sinif <=5) {
+  MessageBox.Show("İlkokul kademesi");
+}
+else if (sinif > 5 && sinif <=9) {
+  MessageBox.Show("Ortaokul kademesi");
+}
+else if (sinif > 9 && sinif <=12) {
+  MessageBox.Show ("Lise kademesi");
+}
+else {
+  MessageBox.Show ("Üniversite kademesi")
+}

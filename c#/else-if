@@ -1,0 +1,14 @@
+byte ortalama;
+ortalama = Convert.ToByte(textBox1.Text);
+if (ortalama > 85) {
+  MessageBox.Show ("Takdir belgesi almaya hak kazandınız.");
+}
+else if (ortalama >= 70) {
+  MessageBox.Show ("Teşekkür Belgesi almaya hak kazandınız.");
+}
+else if (ortalama >= 50) {
+  MessageBox.Show ("Belge almaya hak kazanamadınız.");
+}
+else (ortalama) {
+  MessageBox.Show("Sınıfı geçmeye hak kazanamadınız .");
+}

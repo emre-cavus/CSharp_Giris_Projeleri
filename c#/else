@@ -1,0 +1,8 @@
+if (checkBox1.Checked == true)
+{
+listBox1.Items.Add("Lambalar açık");
+}
+else
+{
+  listBox1.Items.Add("Lambalar Kapalı");
+}

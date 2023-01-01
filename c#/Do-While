@@ -1,0 +1,6 @@
+int say = 1 ;
+do
+{
+  listBox1.Items.Add(say);
+  say++;
+} while(say<=10);

@@ -1,0 +1,10 @@
+if (radioButton1.Checked==true) {
+  this.BackColor = Color.Black;
+ radioButton1.ForeColor = Color.White;
+ radioButton2.ForeColor = Color.White;
+}
+if (!radioButton1.Checked==true) {
+  this.BackColor = Color.White;
+  radioButton1.ForeColor = Color.Black;
+  radioButton1.ForeColor = Color.Black;
+}

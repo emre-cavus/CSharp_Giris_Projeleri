@@ -1,0 +1,5 @@
+int say = 0 ;
+do {
+  richTextBox1.Text = richTextBox1 + say.ToString();
+  say++;
+} while (say<=10);
